@@ -10,10 +10,9 @@ The link to the dataset can be found on: https://www.datacamp.com/projects/441
 
 ## Our work flow
 
-
 Data cleaning and modification --> Data analysis --> Data visualization
 
-Data cleaning and modification **include**:
+**Data cleaning and modification consist of:**
 
 Filling in Missing data --> Dropping duplicates --> Splitting data into two datasets; individuals & organizations  --> Dropping unnecessary data
 
