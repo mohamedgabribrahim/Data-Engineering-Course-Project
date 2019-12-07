@@ -19,7 +19,7 @@ Filling in Missing data --> Dropping duplicates --> Splitting data into two data
 
 ## Contributors
 - Omar Tarek
-- Merna Ghabbour 
+- Merna Ghabour 
 - Salma Osama
 - Khaled ElSayed
 - Mohamed Gabr
