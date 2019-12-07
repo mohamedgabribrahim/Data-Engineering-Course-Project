@@ -9,6 +9,7 @@ The link to the dataset can be found on: https://www.datacamp.com/projects/441
 - **Nobel.ipynb** is the Jupyter Notebook which contains the details of the steps that we used to develop our solution. As well as some visualizations which provide a better understanding of the dataset. 
 
 ## Our work flow
+
 ```mermaid
 graph LR
 A(Data cleaning and modification) 
@@ -22,5 +23,5 @@ W((Filling in Missing data)) --> A
 X((Dropping duplicates)) --> A
 Y((Splitting data into datasets)) --> A
 Z((Dropping unnecessary data)) --> A
-```
+
 
