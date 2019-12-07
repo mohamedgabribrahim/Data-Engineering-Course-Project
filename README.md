@@ -17,6 +17,12 @@ Data cleaning and modification --> Data analysis --> Data visualization
 
 Filling in Missing data --> Dropping duplicates --> Splitting data into two datasets; individuals & organizations  --> Dropping unnecessary data
 
+## Contributors
+-Omar Tarek
+-Merna Ghabbour 
+-Salma Osama
+-Khaled ElSayed
+-Mohamed Gabr
 
 
 
